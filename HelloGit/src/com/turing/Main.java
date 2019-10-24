@@ -9,4 +9,8 @@ public class Main {
             System.out.print("hello"+i);
         }
     }
+
+    public void show(){
+        System.out.println("show....");
+    }
 }
